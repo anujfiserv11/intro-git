@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Anuj.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: 
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: 
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is:
 
