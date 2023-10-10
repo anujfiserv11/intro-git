@@ -2,10 +2,10 @@
 My name is: Anuj.
 
 ## Food
-My favorite food is: 
+My favorite food is: tacos
 
 ## 
-My hobbies are: 
+My hobbies are: gaming, watching sports, hiking
 
 ##
 My favorite artist/band is:
